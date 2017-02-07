@@ -1,6 +1,6 @@
 {
   "name": "intel-codenames-picker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pick a random Intel codename for your next project",
   "main": "index.js",
   "repository": "git@github.com:leocavalcante/intel-codenames-picker.git",
