@@ -7,5 +7,9 @@ picker.pick().then(codename => {
     codename = slug(codename, {lower: true})
   }
 
+  if (process.argv.includes('--no-spaces')) {
+    codename = slug(codename, '')
+  }
+
   console.log(codename)
 })
