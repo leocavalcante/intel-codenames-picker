@@ -1,10 +1,10 @@
-# Intel codenames picker
+# Intel Codenames Picker
 Pick a random Intel codename for you next project!
 
 Stuck on choosing a name for a new project?<br>
 Your problems are over!
 
-```shell
+```bash
 $ npm install -g intel-codenames-picker
 $ codename
 Cedar Mill
