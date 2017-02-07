@@ -8,6 +8,8 @@ Your problems are over!
 $ npm install -g intel-codenames-picker
 $ codename
 Cedar Mill
+$ codename --slug
+canoe-creek
 ```
 
 [List of Intel codenames](https://en.wikipedia.org/wiki/List_of_Intel_codenames)
