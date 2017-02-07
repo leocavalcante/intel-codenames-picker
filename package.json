@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:leocavalcante/intel-codenames-picker.git",
   "author": "leocavalcante <lc@leocavalcante.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
 }
